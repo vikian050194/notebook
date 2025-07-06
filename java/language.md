@@ -21,3 +21,7 @@
 ## collections framework
 
 * https://dev.java/learn/api/collections-framework/ - official guide
+
+## threads
+
+* Java Threads and the Concurrency Utilities by Jeff Friesen - good basic book, in process
